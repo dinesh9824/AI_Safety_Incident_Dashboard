@@ -1,3 +1,4 @@
+import React, { FC } from 'react';
 
 import { Severity } from '../types';
 import ReportIncidentForm from '../components/ReportIncidentForm';
