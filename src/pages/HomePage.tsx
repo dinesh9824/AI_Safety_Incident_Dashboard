@@ -1,4 +1,4 @@
-import React, { FC } from 'react';
+
 import { Incident, Severity } from '../types';
 import FilterControls from '../components/FilterControls';
 import SortControls from '../components/SortControls';
