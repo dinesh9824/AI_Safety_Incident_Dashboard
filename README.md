@@ -10,7 +10,7 @@ This is a React application built with TypeScript and Vite that allows users to 
 - Sort incidents by reported date (Newest First, Oldest First).
 - Report new incidents via a form with validation; new incidents appear immediately in the list.
 
-## Tech StackA
+
 
 - React with Functional Components and Hooks
 - TypeScript for static typing
